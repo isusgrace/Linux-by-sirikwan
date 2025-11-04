@@ -1,4 +1,4 @@
-Out of Memory (OOM) ในบริบทคอมพิวเตอร์
+1. Out of Memory (OOM) ในบริบทคอมพิวเตอร์
 
 ในทางคอมพิวเตอร์และเทคโนโลยี OOM ย่อมาจาก Out of Memory ซึ่งเป็นข้อผิดพลาดที่เกิดขึ้นเมื่อระบบปฏิบัติการ (Operating System) หรือโปรแกรมที่กำลังทำงานอยู่ไม่มีหน่วยความจำ (Memory) เพียงพอต่อการทำงานต่อไป
 
@@ -14,7 +14,7 @@ Out of Memory (OOM) ในบริบทคอมพิวเตอร์
 
 - เมื่อเกิดข้อผิดพลาด OOM ระบบอาจแสดงข้อความแจ้งเตือน "Out of memory or system resources" หรืออาจทำให้โปรแกรมหยุดทำงาน (Crash) หรือระบบทำงานช้าลงมาก
 
-Hypervisor
+2. Hypervisor
 ```
 https://personet.co.th/hypervisor/
 ```
